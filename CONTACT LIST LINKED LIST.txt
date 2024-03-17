@@ -1,3 +1,4 @@
+//small
 CONTACT LIST LINKED LIST:
 Using a Contact List on a Mobile Device:
 A contact is represented by each node in the linked list, which stores facts about the contact, including name, phone number, and other information.
